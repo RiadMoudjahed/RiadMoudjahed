@@ -31,5 +31,5 @@
 
 ---
 
-> "Consistency, passion, and tawakkul — my formula to grow every day."
+> "Tawakkul, Consistency, and passion — my formula to grow every day."
 
