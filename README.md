@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Riad Moudjahed
 
-🎯 A 19-year-old **Entry-level Cybersecurity Analyst** from 🇩🇿, with a sharp focus on **Blue Team** and defensive security.
+🎯 A 19-year-old **Cybersecurity Analyst** from 🇩🇿, with a sharp focus on **Blue Team** and defensive security.
 
 ---
 
