@@ -12,7 +12,7 @@
   - Threat Intelligence
   - Endpoint Forensics
   - Malware Analysis  
-- 🛡️ Learning SIEM & Vulnerability Management tools like **Splunk** and **Nessus**
+- 🛡️ Learning SIEM & Vulnerability Management tools like **SecurityOnion** and **Nessus**
 
 ---
 
