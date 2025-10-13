@@ -12,7 +12,8 @@
   - Threat Intelligence
   - Endpoint Forensics
   - Malware Analysis  
-- 🛡️ Learning SIEM & Vulnerability Management tools like **SecurityOnion** and **Nessus**
+- 🛡️ Learning SIEM & Vulnerability Management tools like **Wazuh** and **Nessus**
+- 🕸️ Building virtual networks and firewalls 
 
 ---
 
