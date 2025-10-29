@@ -12,7 +12,7 @@ I build things, break things, and write about them. Currently working as a Proje
 Enterprise-grade security operations center built with **VMware, pfSense, and Wazuh SIEM**. Simulates real-world threat detection, network segmentation, and SPAN port mirroring for forensic analysis.
 
 ### 🦠 [Malware Reverse Engineering Lab](https://github.com/RiadMoudjahed/Keylogger_MalwareAnalysis_Lab)
-Analyzed custom keylogger using **Ghidra, dnSpy, and Binary Ninja**. Extracted IOCs, identified persistence mechanisms, and documented full analysis workflow. **[Read the report →](link)**
+Analyzed custom keylogger using **Ghidra, dnSpy, and Binary Ninja**. Extracted IOCs, identified persistence mechanisms, and documented full analysis workflow.
 
 ### 🛡️ [SQL Injection Prevention Demo](https://github.com/RiadMoudjahed/SOC-Analyst-Projects/blob/main/Vulnerability%20Management/SQL%20Injection%20Prevention%20Demo.md)
 Built vulnerable and secure Python login systems to demonstrate **OWASP Top 10** exploitation and mitigation using parameterized queries and bcrypt authentication.
