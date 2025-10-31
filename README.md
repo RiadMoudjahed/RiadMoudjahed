@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Riad Moudjahed
 
-**Cybersecurity Analyst** | Blue Team Focus | 19 🇩🇿
+**Cybersecurity Analyst** | **Blue Team Focus** | **19 🇩🇿**
 
 I build things, break things, and write about them. Currently working as a Project Manager for Security Awareness Training at CyberTronic Solutions while completing 35+ hands-on SOC labs and reverse engineering challenges.
 
