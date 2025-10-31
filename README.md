@@ -50,7 +50,7 @@ Topics: SOC operations, digital forensics, malware analysis, threat detection
 📧 riad.moudjahed@gmail.com  
 📝 [Medium](https://medium.com/@riadmouja47)
 
-**Open to:** Junior SOC Analyst roles · Security Analyst positions · Remote opportunities in US/Europe/Middle East
+**Open to:** SOC Analyst roles · Security Analyst positions · Remote opportunities in US/Europe/Middle East
 
 ---
 
