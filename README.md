@@ -57,3 +57,5 @@ Topics: SOC operations, digital forensics, malware analysis, threat detection
 > *"Tawakkul, consistency, and passion — my formula for growth."*
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiadMoudjahed&show_icons=true&theme=radical)
+
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/RiadMoudjahed.png" width="300" />
