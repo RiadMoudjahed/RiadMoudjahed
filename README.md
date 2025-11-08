@@ -15,8 +15,7 @@ Enterprise-grade security operations center built with **VMware, pfSense, and Wa
 Developed Python-based log analysis tool to detect C2 beaconing patterns and persistent backdoor connections through temporal pattern recognition across 10-minute and hourly time windows.
 
 ### 🦠 [Malware Reverse Engineering Lab](https://github.com/RiadMoudjahed/Keylogger_MalwareAnalysis_Lab)
-Analyzed custom keylogger using **Ghidra, dnSpy, and Binary Ninja**. Extracted IOCs, identified persistence mechanisms, and documented full analysis workflow.
-
+Created structured malware analysis lab with 15+ guided questions covering hash identification, static analysis (entry points, imported functions), and dynamic analysis (PCAP traffic, scheduled tasks).
 ### 🛡️ [SQL Injection Prevention Demo](https://github.com/RiadMoudjahed/SOC-Analyst-Projects/blob/main/Vulnerability%20Management/SQL%20Injection%20Prevention%20Demo.md)
 Built vulnerable and secure Python login systems to demonstrate **OWASP Top 10** exploitation and mitigation using parameterized queries and bcrypt authentication.
 
