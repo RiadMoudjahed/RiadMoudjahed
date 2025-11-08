@@ -11,6 +11,9 @@ I **build** things, **break** things, and **write** about them. Currently workin
 ### 🏠 [SOC Home Lab Environment](https://github.com/RiadMoudjahed/SOC-Analyst-Projects/blob/main/Networking/Network.md)
 Enterprise-grade security operations center built with **VMware, pfSense, and Wazuh SIEM**. Simulates real-world threat detection, network segmentation, and SPAN port mirroring for forensic analysis.
 
+### 🚪 [Backdoor Activity Analyzer](https://github.com/RiadMoudjahed/SOC-Analyst-Projects/tree/main/SIEM/Backdoor%20Activity%20Analyzer)
+Developed Python-based log analysis tool to detect C2 beaconing patterns and persistent backdoor connections through temporal pattern recognition across 10-minute and hourly time windows.
+
 ### 🦠 [Malware Reverse Engineering Lab](https://github.com/RiadMoudjahed/Keylogger_MalwareAnalysis_Lab)
 Analyzed custom keylogger using **Ghidra, dnSpy, and Binary Ninja**. Extracted IOCs, identified persistence mechanisms, and documented full analysis workflow.
 
