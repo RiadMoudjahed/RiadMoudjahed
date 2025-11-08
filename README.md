@@ -43,6 +43,7 @@ Topics: SOC operations, digital forensics, malware analysis, threat detection
 - *Reverse Engineering a Keylogger: From Binary to IOCs*
 - *Building a Home SOC Lab with Wazuh and pfSense*
 - *SQL Injection: Exploitation to Mitigation*
+- *Python automation: Backdoor log analyzing*
 
 ---
 
