@@ -8,7 +8,7 @@ I **build** things, **break** things, and **write** about them. Currently workin
 
 ## 🔧 What I Build
 
-### 🏠 [SOC Home Lab Environment](https://github.com/RiadMoudjahed/SOC-Analyst-Projects/blob/main/Networking/Network.md)
+### 🏠 [SOC Home Lab Environment](https://github.com/RiadMoudjahed/SOC-Analyst-Projects/blob/main/Networking/Full%20SOC%20Analyst%20LAB%20%26%20Network%20Configuring.md)
 Enterprise-grade security operations center built with **VMware, pfSense, and Wazuh SIEM**. Simulates real-world threat detection, network segmentation, and SPAN port mirroring for forensic analysis.
 
 ### 🚪 [Backdoor Activity Analyzer](https://github.com/RiadMoudjahed/SOC-Analyst-Projects/tree/main/SIEM/Backdoor%20Activity%20Analyzer)
