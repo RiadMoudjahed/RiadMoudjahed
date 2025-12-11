@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Riad Moudjahed
 
-**Cybersecurity Analyst** | **Blue Team Focus** | **19 🇩🇿**
+**AI Security** | **Cybersecurity Analyst** | **Blue Team Focus** | **19 🇩🇿**
 
 I **build** things, **break** things, and **write** about them. Currently working as a **Project Manager** for Security Awareness Training at **CyberTronic Solutions** while completing 35+ hands-on **SOC labs** and **reverse engineering** challenges.
 
@@ -12,7 +12,7 @@ I **build** things, **break** things, and **write** about them. Currently workin
 Enterprise-grade security operations center built with **VMware, pfSense, and Wazuh SIEM**. Simulates real-world threat detection, network segmentation, and SPAN port mirroring for forensic analysis.
 
 ### 🚪 [Backdoor Activity Analyzer](https://github.com/RiadMoudjahed/SOC-Analyst-Projects/tree/main/SIEM/Backdoor%20Activity%20Analyzer)
-Developed Python-based log analysis tool to detect C2 beaconing patterns and persistent backdoor connections through temporal pattern recognition across 10-minute and hourly time windows.
+Developed Python-based log analysis tool to detect C2 beaconing patterns and persistent backdoor connections using Isolation Forest algorithm
 
 ### 🦠 [Malware Reverse Engineering Lab](https://github.com/RiadMoudjahed/Keylogger_MalwareAnalysis_Lab)
 Created structured malware analysis lab with 15+ guided questions covering hash identification, static analysis (entry points, imported functions), and dynamic analysis (PCAP traffic, scheduled tasks).
