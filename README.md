@@ -11,7 +11,7 @@ I **build** AI security tools, **break** LLMs, and **write** about both. Current
 ### 🎯 AI Red Team Lab Series
 **22 hands-on labs** teaching LLM adversarial attacks across **4 difficulty tiers** (Easy → Expert). Covers prompt injection, jailbreaking, model manipulation, guardrail bypasses, and advanced evasion techniques for GPT, Claude, and Llama models.
 
-### 🔍 [AI-Powered PCAP Analyzer](https://github.com/RiadMoudjahed/AI-PCAP-Analyzer)
+### 🔍 [AI-Powered PCAP Analyzer](https://github.com/RiadMoudjahed/AI-Powered-PCAP-Analyzer)
 Automated network threat detection using **Ollama LLMs + Scapy**. Analyzes packet captures with AI to detect DDoS, port scans, and suspicious patterns. Tested on **11K+ packets** — identified DDoS attack (56% traffic concentration), extracted IOCs automatically, generated actionable security reports.
 
 ### 🚪 [LLM-Powered Backdoor Analyzer](https://github.com/RiadMoudjahed/SOC-Analyst-Projects/tree/main/SIEM/Backdoor%20Activity%20Analyzer)
