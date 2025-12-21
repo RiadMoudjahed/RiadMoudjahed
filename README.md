@@ -94,4 +94,4 @@ MITRE ATT&CK · NIST Cybersecurity Framework · OWASP Top 10 · OWASP LLM Top 10
 ---
 
 **⚡ Quick Stats:**  
-🤖 22 AI Red Team Labs | 🔍 35+ SOC Labs | 📝 11 Security Articles | 🛠️ 5+ Open-Source Tools
+🤖 22 AI Red Team Labs | 🔍 Solved 35+ SOC Labs | 📝 11 Security Articles | 🛠️ 5+ Open-Source Tools
