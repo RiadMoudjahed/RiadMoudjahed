@@ -9,7 +9,7 @@ I **build** AI security tools, **break** LLMs, and **write** about both. Current
 ## 🤖 AI Security Projects
 
 ### 🎯 AI Red Team Lab Series
-**22 hands-on labs** teaching LLM adversarial attacks across **4 difficulty tiers** (Easy → Expert). Covers prompt injection, jailbreaking, model manipulation, guardrail bypasses, and advanced evasion techniques for GPT, Claude, and Llama models.
+**Built 22 hands-on labs** teaching LLM adversarial attacks across **4 difficulty tiers** (Easy → Expert). Covers prompt injection, jailbreaking, model manipulation, guardrail bypasses, and advanced evasion techniques for GPT, Claude, and Llama models.
 
 ### 🛡 [ModelGuard](https://github.com/RiadMoudjahed/ModelGuard)
 A comprehensive security analysis tool that scans AI/ML models for malicious code, backdoors, and security vulnerabilities. It uses advanced detection techniques including entropy analysis, pattern matching, and optional AI-powered deep analysis via local Ollama for 100% privacy.
