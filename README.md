@@ -11,6 +11,9 @@ I **build** AI security tools, **break** LLMs, and **write** about both. Current
 ### 🎯 AI Red Team Lab Series
 **22 hands-on labs** teaching LLM adversarial attacks across **4 difficulty tiers** (Easy → Expert). Covers prompt injection, jailbreaking, model manipulation, guardrail bypasses, and advanced evasion techniques for GPT, Claude, and Llama models.
 
+### 🛡 [ModelGuard](https://github.com/RiadMoudjahed/ModelGuard)
+A comprehensive security analysis tool that scans AI/ML models for malicious code, backdoors, and security vulnerabilities. It uses advanced detection techniques including entropy analysis, pattern matching, and optional AI-powered deep analysis via local Ollama for 100% privacy.
+
 ### 🔍 [AI-Powered PCAP Analyzer](https://github.com/RiadMoudjahed/AI-Powered-PCAP-Analyzer)
 Automated network threat detection using **Ollama LLMs + Scapy**. Analyzes packet captures with AI to detect DDoS, port scans, and suspicious patterns. Tested on **11K+ packets** — identified DDoS attack (56% traffic concentration), extracted IOCs automatically, generated actionable security reports.
 
@@ -27,7 +30,7 @@ Enterprise-grade SOC infrastructure with **VMware, pfSense, Wazuh SIEM**. Real-w
 ### 🦠 [Malware Reverse Engineering Lab](https://github.com/RiadMoudjahed/Keylogger_MalwareAnalysis_Lab)
 **15+ guided exercises** teaching static/dynamic malware analysis with **Ghidra, dnSpy, Wireshark**. Custom keylogger sample for hands-on learning: hash identification, PE analysis, PCAP inspection, IOC extraction.
 
-### 🛡️ [SQL Injection Prevention Demo](https://github.com/RiadMoudjahed/SOC-Analyst-Projects/blob/main/Vulnerability%20Management/SQL%20Injection%20Prevention%20Demo.md)
+### 💉 [SQL Injection Prevention Demo](https://github.com/RiadMoudjahed/SOC-Analyst-Projects/blob/main/Vulnerability%20Management/SQL%20Injection%20Prevention%20Demo.md)
 Live exploitation + mitigation demo for **OWASP Top 10**. Vulnerable vs. secure Python login systems showing parameterized queries and bcrypt authentication.
 
 ### 🔍 [Vulnerability Assessment with Nessus](https://github.com/RiadMoudjahed/SOC-Analyst-Projects/blob/main/Vulnerability%20Management/Basic%20Vulnerability%20Analysis%20With%20Nessus.md)
