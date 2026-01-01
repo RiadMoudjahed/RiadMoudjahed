@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Riad Moudjahed
 
-**AI Security Specialist** | **SOC Analyst** | **Blue Team + AI Red Team** | **19 🇩🇿**
-
-I **build** AI security tools, **break** LLMs, and **write** about both. Currently working as **Project Manager** for Security Awareness Training at **CyberTronic Solutions** while completing **35+ SOC labs**, **22 AI red team challenges**, and open-sourcing security automation tools.
+**AI Security Engineer** building security frameworks for LLMs and RAG systems. I design end-to-end security programs for production AI systems—from red teaming and vulnerability assessment to operational controls, incident response, and compliance. Currently building complete RAG security engineering framework, 22 AI red team labs, ModelGuard ML scanner, and AI-powered security tools. Looking for remote AI Security Engineer opportunities.
 
 ---
 
