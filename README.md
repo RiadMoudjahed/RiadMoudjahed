@@ -81,10 +81,7 @@ MITRE ATT&CK · NIST Cybersecurity Framework · OWASP Top 10 · OWASP LLM Top 10
 
 ## 📫 Let's Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/riad-moudjahed/)  
-📧 riad.moudjahed@gmail.com  
-📝 [Medium](https://medium.com/@riadmouja47)  
-👨‍💻 [Upwork](https://www.upwork.com/freelancers/~0166addb7a08c5c1c7)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/907345577669435423) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/riad-moudjahed/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@riadmouja47) 
 
 **Open to:** AI Security roles · SOC Analyst · Security Researcher · Remote opportunities (US/Europe/Middle East)
 
