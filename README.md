@@ -91,8 +91,7 @@ MITRE ATT&CK · NIST Cybersecurity Framework · OWASP Top 10 · OWASP LLM Top 10
 
 > *"Tawakkul, consistency, and passion — my formula for growth."*
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RiadMoudjahed&show_icons=true&theme=radical)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=RiadMoudjahed&theme=dark)](https://git.io/streak-stats)
 ---
 
 **⚡ Quick Stats:**  
