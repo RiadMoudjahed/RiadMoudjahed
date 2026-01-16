@@ -56,6 +56,8 @@ Python · Bash · SQL · Secure Coding · API Integration · Security Tool Devel
 **Frameworks**  
 MITRE ATT&CK · NIST Cybersecurity Framework · OWASP Top 10 · OWASP LLM Top 10
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
 ---
 
 ## ✍️ I Write About Security
