@@ -71,7 +71,7 @@ MITRE ATT&CK · NIST Cybersecurity Framework · OWASP Top 10 · OWASP LLM Top 10
 
 ## ✍️ I Write About Security
 
-📖 **[15 technical articles on Medium](https://medium.com/@riadmouja47)** (265+ reads)
+📖 **[15 technical articles on Medium](https://medium.com/@riadmouja47)** (570+ reads)
 
 **Recent posts:**
 - *[The AI Security Handbook: Defending the Machine Learning Pipeline](https://medium.com/@riadmouja47/the-ai-security-handbook-defending-the-machine-learning-pipeline-e196cbe72773)*
