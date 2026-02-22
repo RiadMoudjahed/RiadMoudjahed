@@ -83,9 +83,8 @@ MITRE ATT&CK · NIST Cybersecurity Framework · OWASP Top 10 · OWASP LLM Top 10
 ---
 
 ## 🎓 Certifications
-
+- **Google Cloud Cybersecurity Certificate** (2026)
 - **Securiti - AI Security & Governance** (2025)
-- **Google Cloud Cybersecurity Certificate** (2025)
 - **Google Cybersecurity Professional Certificate** (2025)
 - **IBM Cybersecurity Analyst Professional Certificate** (2025)
 
