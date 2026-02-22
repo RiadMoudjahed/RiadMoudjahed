@@ -12,6 +12,9 @@
 ### 🛡 [ModelGuard](https://github.com/RiadMoudjahed/ModelGuard)
 A comprehensive security analysis tool that scans AI/ML models for malicious code, backdoors, and security vulnerabilities. It uses advanced detection techniques including entropy analysis, pattern matching, and optional AI-powered deep analysis via local Ollama for 100% privacy.
 
+### ☁️ [GCP AI Security Auditor](https://github.com/RiadMoudjahed/GCP-AI-Security-Auditor)
+Automated security auditing tool for Google Cloud AI/ML services. Scans Vertex AI models, AI Platform resources, and ML workflows for misconfigurations, policy violations, and security risks. Generates compliance reports aligned with cloud security best practices.
+
 ### 🔍 [AI-Powered PCAP Analyzer](https://github.com/RiadMoudjahed/AI-Powered-PCAP-Analyzer)
 Automated network threat detection using **Ollama LLMs + Scapy**. Analyzes packet captures with AI to detect DDoS, port scans, and suspicious patterns. Tested on **11K+ packets** — identified DDoS attack (56% traffic concentration), extracted IOCs automatically, generated actionable security reports.
 
@@ -20,7 +23,10 @@ Python tool combining **Isolation Forest ML** (92% accuracy, 67% fewer false pos
 
 ---
 
-## 🔧 Traditional Security Projects
+## 🔧 Cloud & Traditional Security Projects
+
+### ☁️ [GCP Security Scanner](https://github.com/RiadMoudjahed/GCP-Security-Scanner)
+Comprehensive security assessment tool for Google Cloud Platform. Automates security audits across IAM, Compute Engine, Cloud Storage, networking, and logging configurations. Identifies misconfigurations, generates risk reports, and provides remediation recommendations aligned with CIS GCP benchmarks.
 
 ### 🏠 [SOC Home Lab Environment](https://github.com/RiadMoudjahed/SOC-Analyst-Projects/blob/main/Networking/Full%20SOC%20Analyst%20LAB%20%26%20Network%20Configuring.md)
 Enterprise-grade SOC infrastructure with **VMware, pfSense, Wazuh SIEM**. Real-world threat detection, network segmentation, SPAN port mirroring for forensic analysis. **35+ completed labs** covering incident response, threat hunting, and SIEM rule creation.
@@ -41,6 +47,9 @@ Full vulnerability management lifecycle: scanning, CVE prioritization (CVSS scor
 **AI Security & Red Teaming**  
 LLM Adversarial Attacks · Prompt Injection · Jailbreaking · Model Manipulation · OWASP LLM Top 10 · Adversarial ML
 
+**Cloud Security**  
+Google Cloud Platform (GCP) · Cloud IAM · Cloud Security Posture Management · CIS Benchmarks · Cloud Audit Logging
+
 **AI/ML Development**  
 Python (Scikit-learn, Pandas) · Ollama Integration · Isolation Forest · Scapy · Feature Engineering
 
@@ -56,26 +65,27 @@ Python · Bash · SQL · Secure Coding · API Integration · Security Tool Devel
 **Frameworks**  
 MITRE ATT&CK · NIST Cybersecurity Framework · OWASP Top 10 · OWASP LLM Top 10
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ---
 
 ## ✍️ I Write About Security
 
-📖 **[11 technical articles on Medium](https://medium.com/@riadmouja47)** (265+ reads)
+📖 **[15 technical articles on Medium](https://medium.com/@riadmouja47)** (265+ reads)
 
 **Recent posts:**
-- *AI Red Teaming: Breaking LLM Guardrails*
-- *Building an AI-Powered PCAP Analyzer with Ollama*
-- *Reverse Engineering a Keylogger: From Binary to IOCs*
-- *Building a Home SOC Lab with Wazuh and pfSense*
-- *Python Automation: LLM-Enhanced Backdoor Log Analysis*
+- *[The AI Security Handbook: Defending the Machine Learning Pipeline](https://medium.com/@riadmouja47/the-ai-security-handbook-defending-the-machine-learning-pipeline-e196cbe72773)*
+- *[Demystifying GPT: A Deep Dive into the Future of AI SecurityA 2026 Deep Dive for AI Security Engineers](https://medium.com/@riadmouja47/demystifying-gpt-a-deep-dive-into-the-future-of-ai-securitya-2026-deep-dive-for-ai-security-cb923aa140c7?source=user_profile_page---------1-------------ca1fea725eec----------------------)*
+- *[Coding Made for Anyone…Really!](https://medium.com/@riadmouja47/coding-made-for-anyone-really-96b05e865f27?source=user_profile_page---------2-------------ca1fea725eec----------------------)*
+- *[Why RAG Security is Broken? (And How to Fix It)](https://medium.com/@riadmouja47/why-rag-security-is-broken-and-how-to-fix-it-8697845a1a3d?source=user_profile_page---------3-------------ca1fea725eec----------------------)*
+- *[How to enable FIM(File Integrity Monitoring) — Wazuh](https://medium.com/@riadmouja47/how-to-enable-fim-file-integrity-monitoring-wazuh-ec32fb6b6bfb?source=user_profile_page---------4-------------ca1fea725eec----------------------)*
 
 ---
 
 ## 🎓 Certifications
 
 - **Securiti - AI Security & Governance** (2025)
+- **Google Cloud Cybersecurity Certificate** (2025)
 - **Google Cybersecurity Professional Certificate** (2025)
 - **IBM Cybersecurity Analyst Professional Certificate** (2025)
 
@@ -100,4 +110,3 @@ MITRE ATT&CK · NIST Cybersecurity Framework · OWASP Top 10 · OWASP LLM Top 10
 ![](https://github-readme-stats.vercel.app/api?username=RiadMoudjahed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RiadMoudjahed&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RiadMoudjahed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
