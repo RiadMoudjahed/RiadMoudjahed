@@ -105,7 +105,4 @@ MITRE ATT&CK · NIST Cybersecurity Framework · OWASP Top 10 · OWASP LLM Top 10
 **⚡ Quick Stats:**  
 🤖 22 AI Red Team Labs | 🔍 Solved 35+ SOC Labs | 📝 15 Security Articles | 🛠️ 5+ Open-Source Tools
 
-[![](https://visitcount.itsvg.in/api?id=RiadMoudjahed&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://github-readme-stats.vercel.app/api?username=RiadMoudjahed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RiadMoudjahed&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RiadMoudjahed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://visitcount.itsvg.in/api?id=RiadMoudjahed&icon=0&color=0)](https://visitcount.itsvg.in) ![](https://github-readme-stats.vercel.app/api?username=RiadMoudjahed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
