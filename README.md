@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Riad Moudjahed
 
-<img align="right" height="250" width="350" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
+<img align="right" height="250" width="350" alt="GIF" src="pwc.nl.gif"/>
 <img align="right" src="spacer.png"/>
 
 <p align="justify">I am building security frameworks for LLMs and RAG systems. I design end-to-end security programs for production AI systems—from red teaming and vulnerability assessment to operational controls, incident response, and compliance. Currently building complete RAG security engineering framework, 22 AI red team labs, ModelGuard ML scanner, and AI-powered security tools. Looking for remote AI Security Engineer opportunities.
