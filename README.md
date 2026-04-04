@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=AI+Security+Engineer;Securing+LLMs+and+RAG+Systems" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" height="200" width="300" alt="GIF" src="pwc.nl.gif"/>
+<img align="right" height="190" width="290" alt="GIF" src="pwc.nl.gif"/>
 <img align="right" src="spacer.png"/>
 
 <p align="justify">I am building security frameworks for LLMs and RAG systems. I design end-to-end security programs for production AI systems—from red teaming and vulnerability assessment to operational controls, incident response, and compliance. Currently building complete RAG security engineering framework, 22 AI red team labs, ModelGuard ML scanner, and AI-powered security tools.
