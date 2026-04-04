@@ -114,8 +114,6 @@ MITRE ATT&CK · NIST Cybersecurity Framework · OWASP Top 10 · OWASP LLM Top 10
 <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=RiadMoudjahed&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
-<br/>
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=100&section=footer"/>
 </p>
