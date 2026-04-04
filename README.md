@@ -1,7 +1,7 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,20,24&height=180&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Riad%20Moudjahed&fontSize=32&fontColor=ffffff&fontAlignY=35&animation=twinkling"/>
+
 <p align="center">
-
-# 👋 Hi, I'm Riad Moudjahed | AI Security Engineer
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=435&lines=AI+Security+Engineer;Securing+LLMs+and+RAG+Systems" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" height="200" width="300" alt="GIF" src="pwc.nl.gif"/>
