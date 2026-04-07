@@ -74,7 +74,7 @@ Python · Bash · SQL · Secure Coding · API Integration · Security Tool Devel
 MITRE ATT&CK · NIST Cybersecurity Framework · OWASP Top 10 · OWASP LLM Top 10
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,bash,pytorch,tensorflow,sklearn,gcp,aws,github,githubactions,kali&perline=12" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=py,bash,pytorch,tensorflow,sklearn,gcp,aws,github,git,githubactions,kali&perline=12" alt="Tech Stack"/>
 </p>
 
 ---
