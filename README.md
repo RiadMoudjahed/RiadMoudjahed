@@ -81,14 +81,14 @@ MITRE ATT&CK · NIST Cybersecurity Framework · OWASP Top 10 · OWASP LLM Top 10
 
 ## ✍️ I Write About Security
 
-📖 **[18 technical articles on Medium](https://medium.com/@riadmouja47)** (700+ reads)
+📖 **[19 technical articles on Medium](https://medium.com/@riadmouja47)** (700+ reads)
 
 **Recent posts:**
+- *[Beyond the Voice: Architecture for Preventing Deepfake Exploitation in AI Dubbing]([https://medium.com/@riadmouja47/the-secret-behind-anthropics-secured-models-b9dc81b566c4](https://medium.com/@riadmouja47/beyond-the-voice-architecture-for-preventing-deepfake-exploitation-in-ai-dubbing-64aa7594fb61))*
 - *[The Secret Behind Anthropic’s Secured Models](https://medium.com/@riadmouja47/the-secret-behind-anthropics-secured-models-b9dc81b566c4)*
 - *[The AI Security Handbook: Defending the Machine Learning Pipeline](https://medium.com/@riadmouja47/the-ai-security-handbook-defending-the-machine-learning-pipeline-e196cbe72773)*
 - *[Demystifying GPT: A Deep Dive into the Future of AI SecurityA 2026 Deep Dive for AI Security Engineers](https://medium.com/@riadmouja47/demystifying-gpt-a-deep-dive-into-the-future-of-ai-securitya-2026-deep-dive-for-ai-security-cb923aa140c7?source=user_profile_page---------1-------------ca1fea725eec----------------------)*
 - *[Coding Made for Anyone…Really!](https://medium.com/@riadmouja47/coding-made-for-anyone-really-96b05e865f27?source=user_profile_page---------2-------------ca1fea725eec----------------------)*
-- *[Why RAG Security is Broken? (And How to Fix It)](https://medium.com/@riadmouja47/why-rag-security-is-broken-and-how-to-fix-it-8697845a1a3d?source=user_profile_page---------3-------------ca1fea725eec----------------------)*
 
 ---
 
