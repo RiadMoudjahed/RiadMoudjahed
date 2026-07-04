@@ -81,7 +81,7 @@ MITRE ATT&CK · NIST Cybersecurity Framework · OWASP Top 10 · OWASP LLM Top 10
 
 ## ✍️ I Write About Security
 
-📖 **[19 technical articles on Medium](https://medium.com/@riadmouja47)** (700+ reads)
+📖 **[19 technical articles on Medium](https://medium.com/@riadmouja47)** (900+ reads)
 
 **Recent posts:**
 - *[Beyond the Voice: Architecture for Preventing Deepfake Exploitation in AI Dubbing]([https://medium.com/@riadmouja47/the-secret-behind-anthropics-secured-models-b9dc81b566c4](https://medium.com/@riadmouja47/beyond-the-voice-architecture-for-preventing-deepfake-exploitation-in-ai-dubbing-64aa7594fb61))*
