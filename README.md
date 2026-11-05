@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,4,24,8,30&height=180&section=header&text=Riad%20Moudjahed&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=AI%20Security%20Engineer&descAlignY=55&descSize=18&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,4,24,8,30&height=180&section=header&text=Riad%20Moudjahed&fontSize=36&fontColor=ffffff&fontAlignY=35&descSize=18&animation=twinkling"/>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+Agent+Security+Testing;LLM+Red+Teamer;AI+Security+Engineer;Bug+Hunter" alt="Typing SVG" /></a>
